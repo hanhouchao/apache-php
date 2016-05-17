@@ -1,6 +1,6 @@
 
 FROM ubuntu:trusty
-MAINTAINER Fernando Mayo <ferasndo@alauda20160512.co>
+MAINTAINER Fernando Mayo <ferasndo@alauda20160517.co>
 
 # Install base packages
 RUN apt-get update && \
