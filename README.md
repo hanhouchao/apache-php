@@ -5,7 +5,7 @@ Base docker image to run PHP applications on Apache
 
 
 Building the base image
------------------------
+-----------------------gg
 
 To create the base image `tutum/apache-php`, execute the following command on the tutum-docker-php folder:
 
