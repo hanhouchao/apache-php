@@ -1,5 +1,5 @@
 
-FROM ubuntu:trusty
+FROM index.alauda.cn/alauda/ubuntu:trusty
 MAINTAINER Fernando Mayo <ferasndo@alauda20160111.co>
 
 # Install base packages
