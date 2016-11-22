@@ -8,8 +8,7 @@ Building the base image
 -----------------------gg
 111111
 To create the base image `tutum/apache-php`, execute the following command on the tutum-docker-php folder:
-
-    docker build -t tutum/apache-php .
+11111    docker build -t tutum/apache-php .
 
 
 Running your Apache+PHP docker image
