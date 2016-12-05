@@ -1,1 +1,1 @@
-FROM python:3-alpine
+FROM index-staging.alauda.cn/testorg001/volume-test:v1
