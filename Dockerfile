@@ -1,2 +1,1 @@
-FROM index-staging.alauda.cn/alauda/hello-world:latest
-EXPOSE 80
+FROM index-staging.alauda.cn/testorg001/volume-test:v1
