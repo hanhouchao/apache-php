@@ -1,1 +1,1 @@
-FROM index-staging.alauda.cn/testorg001/volume-test:v1
+FROM index.alauda.cn/library/alpine:3.3
